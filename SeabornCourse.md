@@ -1,13 +1,7 @@
-# Complete Data Visualization & Exploratory Data Analysis (EDA) with Python, Matplotlib and Seaborn — Beginner to Real-World Projects
+# Complete Data Visualization & Exploratory Data Analysis (EDA) with Python, Matplotlib and Seaborn 
 
-> **Language:** Easy Roman Urdu (English technical terms original rakhe gaye hain)
-> **Level:** Bilkul Beginner (Zero se start)
-> **File:** `Complete_Seaborn_EDA_Course_Roman_Urdu.md`
-> **Tested versions:** Python 3.10+, pandas 2.x/3.x, NumPy 1.26+/2.x, Matplotlib 3.8+, Seaborn 0.13+
 
----
-
-## Course Ko Kaise Use Karein? (Students Ke Liye)
+## Course Ko Kaise Use Karein? 
 
 1. Course ko **upar se neeche** order mein parhein. Har chapter pichle chapter par bana hai.
 2. Har code ko **khud type karein** (copy-paste kam karein). Typing se hi code samajh aata hai.
